@@ -13,7 +13,8 @@
 </div>
 
 ---
-
+<p align="center">He aquí el link: https://purple-river-0d0795b10.azurestaticapps.net </p>
+<br>
 <p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
     <br> 
 </p>
